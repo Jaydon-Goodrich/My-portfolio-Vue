@@ -1,5 +1,10 @@
 # vue-portfolio
 
+## About
+A personal portfolio I built using the Vue.js framework.
+
+A deployed version of this site can be found [Here](https://vibrant-shannon-3e9541.netlify.app/)
+
 ## Project setup
 ```
 npm install
