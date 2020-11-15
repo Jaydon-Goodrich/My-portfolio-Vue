@@ -34,38 +34,45 @@ export default {
         },
         {
           id: 2,
-          title: "Note Taker w/ExpressJs",
-          url: "https://peaceful-refuge-43745.herokuapp.com/",
-          bgUrl: require('./assets/noteTakerSized.png'),
+          title: "Job Finder Full Stack",
+          url: "https://buzzword-job-finder.herokuapp.com/",
+          bgUrl: require('./assets/job-finderResized.png'),
           isRight: true
         },
         {
           id: 3,
-          title: "Game Finder Front End",
-          url: "https://jaydon-goodrich.github.io/game-finder/",
-          bgUrl: require('./assets/gameFinderSized.png'),
+          title: "Note Taker w/ExpressJs",
+          url: "https://peaceful-refuge-43745.herokuapp.com/",
+          bgUrl: require('./assets/noteTakerSized.png'),
           isLeft: true
         },
         {
           id: 4,
-          title: "Employee Tracker NodeJS",
-          url: "https://github.com/Jaydon-Goodrich/employee-tracker",
-          bgUrl: require('./assets/employeeTrackerSized.png'),
+          title: "Game Finder Front End",
+          url: "https://jaydon-goodrich.github.io/game-finder/",
+          bgUrl: require('./assets/gameFinderSized.png'),
           isRight: true
         },
         {
           id: 5,
-          title: "Weather Dashboard w/bootstrap",
-          url: "https://jaydon-goodrich.github.io/weather-dashboard/",
-          bgUrl: require('./assets/weatherDashboardSized.png'),
+          title: "Employee Tracker NodeJS",
+          url: "https://github.com/Jaydon-Goodrich/employee-tracker",
+          bgUrl: require('./assets/employeeTrackerSized.png'),
           isLeft: true
         },
         {
           id: 6,
+          title: "Weather Dashboard w/bootstrap",
+          url: "https://jaydon-goodrich.github.io/weather-dashboard/",
+          bgUrl: require('./assets/weatherDashboardSized.png'),
+          isRight: true
+        },
+        {
+          id: 7,
           title: "Ecommerce Back End",
           url: "https://github.com/Jaydon-Goodrich/orm-project",
           bgUrl: require('./assets/backendSized.png'),
-          isRight: true
+          isLeft: true
         }
       ]
     }
